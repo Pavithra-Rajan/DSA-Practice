@@ -14,3 +14,4 @@
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |1|[Reverse Array](https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/) | [C](./Reverse_Array.c)|Easy|
+|1|[Min-Max of Array](https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/) | [C](./Find_Min_Max_array.c)|Easy|
