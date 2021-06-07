@@ -10,6 +10,7 @@
 |4|[Happy Number](https://leetcode.com/problems/happy-number/)| [C](./Happy_Number.c)|Easy|
 |5|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)| [C](./Palindrome_Number.c)|Easy|
 |6|[K-th Largest](https://leetcode.com/problems/kth-largest-element-in-an-array/)| [Python](./kth_largest.py)|Medium|
+|6|[Sort Colors](https://leetcode.com/problems/sort-colors/)| [Python](./Sort_Colors.py)|Medium|
 
 #### Practice
 | # | Title | Solution | Difficulty |
