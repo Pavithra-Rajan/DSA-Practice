@@ -1,8 +1,6 @@
 # DSA_practice
-LeetCode
-========
 
-### LeetCode Algorithm
+#### LeetCode Algorithm
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -11,3 +9,8 @@ LeetCode
 |3|[Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [C](./Reverse_Integer.c)|Easy|
 |4|[Happy Number](https://leetcode.com/problems/happy-number/)| [C](./Happy_Number.c)|Easy|
 |5|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)| [C](./Palindrome_Number.c)|Easy|
+
+#### Practice
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|1|[Reverse Array](https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/) | [C](./Reverse_Array.c)|Easy|
