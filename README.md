@@ -13,6 +13,8 @@
 |7|[Sort Colors](https://leetcode.com/problems/sort-colors/)| [Python](./Sort_Colors.py)|Medium|
 |8|[Intersection of two arrays](https://leetcode.com/problems/intersection-of-two-arrays/)| [Python](./Intersection_Two_Arrays_No_Dup.py)|Easy|
 |9|[Intersection of two arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/submissions/)| [Python](./Intersection_Two_Arrays_2.py)|Easy|
+|10|[Rotate Array](https://leetcode.com/problems/rotate-array/)| [Python](./Rotate_Array.py)|Medium|
+
 #### Practice
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
