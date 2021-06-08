@@ -23,7 +23,7 @@
 |17|[Shuffle the array](https://leetcode.com/problems/shuffle-the-array/) | [Python](./Shuffle_the_array.py)|Easy|
 |18|[Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | [Python](./Richest_Customer_Wealth.py)|Easy|
 |19|[Smaller than current number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [Python](./Smaller_than_current_number.py)|Easy|
-
+|20|[Smaller than current number](https://leetcode.com/problems/number-of-good-pairs/) | [Python](./Good_Pairs.py)|Easy|
 #### Practice
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
