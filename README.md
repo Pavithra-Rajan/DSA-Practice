@@ -18,7 +18,8 @@
 |12|[Running sum of 1D array](https://leetcode.com/problems/running-sum-of-1d-array/)| [Python](./Running_Sum_Array.py)|Easy|
 |13|[Minimum Deci-Binary](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/)| [Python](./Minimum_DeciBinary.py)|Medium|
 |14|[Defanging an IP address](https://leetcode.com/problems/defanging-an-ip-address/)| [Python](./Defanging_IP_Address.py)|Easy|
-|15|[Reducing Dishes](https://leetcode.com/problems/reducing-dishes/submissions/)| [Python](./Reducing_Dishes.py)|Hard|
+|15|[Reducing Dishes](https://leetcode.com/problems/reducing-dishes/)| [Python](./Reducing_Dishes.py)|Hard|
+|16|[String to Integer](https://leetcode.com/problems/string-to-integer-atoi/)| [Python](./string_to_atoi.py)|Medium|
 #### Practice
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
