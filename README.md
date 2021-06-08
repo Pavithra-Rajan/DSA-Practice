@@ -24,6 +24,8 @@
 |18|[Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | [Python](./Richest_Customer_Wealth.py)|Easy|
 |19|[Smaller than current number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [Python](./Smaller_than_current_number.py)|Easy|
 |20|[Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | [Python](./Good_Pairs.py)|Easy|
+|21|[Subtract Sum and Product of Digits](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | [Python](./Sub_Pdt_Sum.py)|Easy|
+
 #### Practice
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
