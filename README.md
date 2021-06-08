@@ -21,6 +21,8 @@
 |15|[Reducing Dishes](https://leetcode.com/problems/reducing-dishes/)| [Python](./Reducing_Dishes.py)|Hard|
 |16|[String to Integer](https://leetcode.com/problems/string-to-integer-atoi/)| [Python](./string_to_atoi.py)|Medium|
 |17|[Shuffle the array](https://leetcode.com/problems/shuffle-the-array/) | [Python](./Shuffle_the_array.py)|Easy|
+|18|[Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | [Python](./Richest_Customer_Wealth.py.py)|Easy|
+
 #### Practice
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
