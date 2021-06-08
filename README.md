@@ -17,6 +17,7 @@
 |11|[Summation of two words](https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/)| [Python](./Summation_of_two_words.py)|Easy|
 |12|[Running sum of 1D array](https://leetcode.com/problems/running-sum-of-1d-array/)| [Python](./Running_Sum_Array.py)|Easy|
 |13|[Minimum Deci-Binary](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/)| [Python](./Minimum_DeciBinary.py)|Medium|
+|14|[Defanging an IP address](https://leetcode.com/problems/defanging-an-ip-address/)| [Python](./Defanging_IP_Address.py)|Easy|
 
 #### Practice
 | # | Title | Solution | Difficulty |
