@@ -28,6 +28,7 @@
 |22|[Number of steps to zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | [Python](./Number_of_steps_zero.py)|Easy|
 |23|[Shuffle String](https://leetcode.com/problems/shuffle-string/) | [Python](./Shuffling_String.py)|Easy|
 |24|[Binary to Integer Linked List](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | [Python](./Binary_Int_LL.py)|Easy|
+|25|[Reverse String](https://leetcode.com/problems/reverse-string/) | [C](./Reverse_String.c)|Easy|
 
 #### Practice
 | # | Title | Solution | Difficulty |
