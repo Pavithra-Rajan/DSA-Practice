@@ -30,6 +30,7 @@
 |24|[Binary to Integer Linked List](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | [Python](./Binary_Int_LL.py)|Easy|
 |25|[Reverse String](https://leetcode.com/problems/reverse-string/) | [C](./Reverse_String.c)|Easy|
 |26|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Python](./Linked_List_Cycle.py)|Easy|
+|27|[Decompress Run](https://leetcode.com/problems/decompress-run-length-encoded-list/) | [Python](./Decompress_Run.py)|Easy|
 
 #### Practice
 | # | Title | Solution | Difficulty |
