@@ -31,6 +31,8 @@
 |25|[Reverse String](https://leetcode.com/problems/reverse-string/) | [C](./Reverse_String.c)|Easy|
 |26|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Python](./Linked_List_Cycle.py)|Easy|
 |27|[Decompress Run](https://leetcode.com/problems/decompress-run-length-encoded-list/) | [Python](./Decompress_Run.py)|Easy|
+|28|[Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | [Python](./Kids_With_greatest.py)|Easy|
+
 
 #### Practice
 | # | Title | Solution | Difficulty |
