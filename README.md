@@ -27,6 +27,7 @@
 |21|[Subtract Sum and Product of Digits](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | [Python](./Sub_Pdt_Sum.py)|Easy|
 |22|[Number of steps to zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | [Python](./Number_of_steps_zero.py)|Easy|
 |23|[Shuffle String](https://leetcode.com/problems/shuffle-string/) | [Python](./Shuffling_String.py)|Easy|
+|24|[Binary to Integer Linked List](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | [Python](./Binary_Int_LL.py)|Easy|
 
 #### Practice
 | # | Title | Solution | Difficulty |
