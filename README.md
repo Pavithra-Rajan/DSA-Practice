@@ -35,7 +35,7 @@
 |29|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/submissions/) | [Python](./Jewels_Stones.py)|Easy|
 |30|[Design Parking System](https://leetcode.com/problems/design-parking-system/) | [Python](./Design_Parking.py)|Easy|
 |31|[Valid Number](https://leetcode.com/problems/valid-number/) | [Python](./Valid_Number.py)|Hard|
-
+|32|[Divide Two](https://leetcode.com/problems/divide-two-integers/)| [Python](./Divide_two.py)|Medium|
 
 
 #### Practice
