@@ -44,6 +44,8 @@
 |38|[Hamming Distance](https://leetcode.com/problems/hamming-distance/) | [Python](./Hamming_Dist.py)|Easy|
 |39|[Shortest Distance to character](https://leetcode.com/problems/shortest-distance-to-a-character/) | [Python](./Shortest_Dist_to_char.py)|Easy|
 |40|[Split a balanced string](https://leetcode.com/problems/split-a-string-in-balanced-strings/) | [Python](./Balanced_Str_Split.py)|Easy|
+|41|[XOR on array](https://leetcode.com/problems/xor-operation-in-an-array/) | [Python](./Xor_array.py)|Easy|
+
 
 #### Practice
 | # | Title | Solution | Difficulty |
