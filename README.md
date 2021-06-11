@@ -41,6 +41,7 @@
 |35|[Goal parser](https://leetcode.com/problems/goal-parser-interpretation/) | [Python](./Goal_parser.py)|Easy|
 |36|[Consistent Arrays](https://leetcode.com/problems/count-the-number-of-consistent-strings/) | [Python](./consistent_strings.py)|Easy|
 |37|[Count Matching Items](https://leetcode.com/problems/count-items-matching-a-rule/) | [Python](./Count_Items_Match.py)|Easy|
+|38|[Hamming Distance](https://leetcode.com/problems/hamming-distance/) | [Python](./Hamming_Dist.py)|Easy|
 
 #### Practice
 | # | Title | Solution | Difficulty |
