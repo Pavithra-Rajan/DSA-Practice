@@ -43,6 +43,7 @@
 |37|[Count Matching Items](https://leetcode.com/problems/count-items-matching-a-rule/) | [Python](./Count_Items_Match.py)|Easy|
 |38|[Hamming Distance](https://leetcode.com/problems/hamming-distance/) | [Python](./Hamming_Dist.py)|Easy|
 |39|[Shortest Distance to character](https://leetcode.com/problems/shortest-distance-to-a-character/) | [Python](./Shortest_Dist_to_char.py)|Easy|
+|40|[Split a balanced string](https://leetcode.com/problems/split-a-string-in-balanced-strings/) | [Python](./Balanced_Str_Split.py)|Easy|
 
 #### Practice
 | # | Title | Solution | Difficulty |
