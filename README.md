@@ -33,7 +33,7 @@
 |27|[Decompress Run](https://leetcode.com/problems/decompress-run-length-encoded-list/) | [Python](./Decompress_Run.py)|Easy|
 |28|[Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | [Python](./Kids_With_greatest.py)|Easy|
 |29|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/submissions/) | [Python](./Jewels_Stones.py)|Easy|
-
+|30|[Design Parking System](https://leetcode.com/problems/design-parking-system/) | [Python](.Design_Parking.py)|Easy|
 
 
 
