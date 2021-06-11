@@ -38,6 +38,8 @@
 |32|[Divide Two](https://leetcode.com/problems/divide-two-integers/)| [Python](./Divide_two.py)|Medium|
 |33|[Decode XOR array](https://leetcode.com/problems/decode-xored-array/) | [Python](./Decode_XORed.py)|Easy|
 |34|[Target Array](https://leetcode.com/problems/create-target-array-in-the-given-order/) | [Python](./Target_Arr.py)|Easy|
+|35|[Goal parser](https://leetcode.com/problems/goal-parser-interpretation/) | [Python](./Goal_parser.py)|Easy|
+|36|[Consistent Arrays](https://leetcode.com/problems/count-the-number-of-consistent-strings/) | [Python](./consistent_strings.py)|Easy|
 
 #### Practice
 | # | Title | Solution | Difficulty |
