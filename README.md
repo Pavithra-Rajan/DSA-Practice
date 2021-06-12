@@ -46,6 +46,8 @@
 |40|[Split a balanced string](https://leetcode.com/problems/split-a-string-in-balanced-strings/) | [Python](./Balanced_Str_Split.py)|Easy|
 |41|[XOR on array](https://leetcode.com/problems/xor-operation-in-an-array/) | [Python](./Xor_array.py)|Easy|
 |42|[BST to Greater Sum](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/) | [Python](./BST_greater.py)|Medium|
+|43|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | [Python](./Range_Sum_BST.py)|Easy|
+
 
 #### Practice
 | # | Title | Solution | Difficulty |
