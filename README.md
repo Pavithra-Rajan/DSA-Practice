@@ -55,6 +55,12 @@
 |49|[Sum without add](https://leetcode.com/problems/sum-of-two-integers/) | [Python](./Sum_without_add.py)|Medium|
 |50|[N-ary Preorder](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | [Python](./N-ary_Preorder.py)|Easy|
 |51|[Binary Preorder](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Python](./Binary_Preorder.py)|Easy|
+|52|[Even Digits count](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | [Python](./Even_digits.py)|Easy|
+|53|[Sort Array by Parity](https://leetcode.com/problems/sort-array-by-parity/) | [Python](./Array_Parity.py)|Easy|
+|54|[Monotonic Array](https://leetcode.com/problems/monotonic-array/) | [Python](./Monotonic_Array.py)|Easy|
+|55|[No students lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/) | [Python](./No_Students_Lunch.py)|Easy|
+|56|[Squares of sorted array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Python](./Sorted_Squares.py)|Easy|
+|57|[Merge Strings Alteratively](https://leetcode.com/problems/merge-strings-alternately/) | [Python](./Merge_Sorted_Strings.py)|Easy|
 
 #### Practice
 | # | Title | Solution | Difficulty |
