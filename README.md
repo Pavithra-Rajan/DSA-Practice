@@ -47,6 +47,8 @@
 |41|[XOR on array](https://leetcode.com/problems/xor-operation-in-an-array/) | [Python](./Xor_array.py)|Easy|
 |42|[BST to Greater Sum](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/) | [Python](./BST_greater.py)|Medium|
 |43|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | [Python](./Range_Sum_BST.py)|Easy|
+|44|[Maximum nesting](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | [Python](./Maximum_Nesting.py)|Easy|
+
 
 
 #### Practice
