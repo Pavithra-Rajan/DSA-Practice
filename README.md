@@ -50,7 +50,7 @@
 |44|[Maximum nesting](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | [Python](./Maximum_Nesting.py)|Easy|
 |45|[Pangram checker](https://leetcode.com/problems/check-if-the-sentence-is-pangram/) | [Python](./Panagram.py)|Easy|
 |46|[To lowercase](https://leetcode.com/problems/to-lower-case/) | [Python](./To_Lower.py)|Easy|
-
+|47|[Reformat Department Table](https://leetcode.com/problems/reformat-department-table/) | [MySQL](./Reformat_Dept_Table.txt)|Easy|
 
 #### Practice
 | # | Title | Solution | Difficulty |
