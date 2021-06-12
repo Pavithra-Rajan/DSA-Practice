@@ -51,6 +51,7 @@
 |45|[Pangram checker](https://leetcode.com/problems/check-if-the-sentence-is-pangram/) | [Python](./Panagram.py)|Easy|
 |46|[To lowercase](https://leetcode.com/problems/to-lower-case/) | [Python](./To_Lower.py)|Easy|
 |47|[Reformat Department Table](https://leetcode.com/problems/reformat-department-table/) | [MySQL](./Reformat_Dept_Table.txt)|Easy|
+|48|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Python](./FizzzBuzz.py)|Easy|
 
 #### Practice
 | # | Title | Solution | Difficulty |
