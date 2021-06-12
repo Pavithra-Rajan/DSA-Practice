@@ -54,6 +54,8 @@
 |48|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Python](./FizzzBuzz.py)|Easy|
 |49|[Sum without add](https://leetcode.com/problems/sum-of-two-integers/) | [Python](./Sum_without_add.py)|Medium|
 |50|[N-ary Preorder](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | [Python](./N-ary_Preorder.py)|Easy|
+|51|[Binary Preorder](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Python](./Binary_Preorder.py)|Easy|
+
 #### Practice
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
