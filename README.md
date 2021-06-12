@@ -48,7 +48,8 @@
 |42|[BST to Greater Sum](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/) | [Python](./BST_greater.py)|Medium|
 |43|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | [Python](./Range_Sum_BST.py)|Easy|
 |44|[Maximum nesting](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | [Python](./Maximum_Nesting.py)|Easy|
-|45|[Panagram checker](https://leetcode.com/problems/check-if-the-sentence-is-pangram/) | [Python](./Panagram.py)|Easy|
+|45|[Pangram checker](https://leetcode.com/problems/check-if-the-sentence-is-pangram/) | [Python](./Panagram.py)|Easy|
+|46|[To lowercase](https://leetcode.com/problems/to-lower-case/) | [Python](./To_Lower.py)|Easy|
 
 
 #### Practice
