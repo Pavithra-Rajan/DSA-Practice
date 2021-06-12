@@ -52,6 +52,7 @@
 |46|[To lowercase](https://leetcode.com/problems/to-lower-case/) | [Python](./To_Lower.py)|Easy|
 |47|[Reformat Department Table](https://leetcode.com/problems/reformat-department-table/) | [MySQL](./Reformat_Dept_Table.txt)|Easy|
 |48|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Python](./FizzzBuzz.py)|Easy|
+|49|[Sum without add](https://leetcode.com/problems/sum-of-two-integers/) | [Python](./Sum_without_add.py)|Medium|
 
 #### Practice
 | # | Title | Solution | Difficulty |
