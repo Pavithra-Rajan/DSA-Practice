@@ -61,6 +61,7 @@
 |55|[No students lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/) | [Python](./No_Students_Lunch.py)|Easy|
 |56|[Squares of sorted array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Python](./Sorted_Squares.py)|Easy|
 |57|[Merge Strings Alteratively](https://leetcode.com/problems/merge-strings-alternately/) | [Python](./Merge_Sorted_Strings.py)|Easy|
+|58|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | [Python](./Third_Max.py)|Easy|
 
 #### Practice
 | # | Title | Solution | Difficulty |
