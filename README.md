@@ -62,6 +62,9 @@
 |56|[Squares of sorted array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Python](./Sorted_Squares.py)|Easy|
 |57|[Merge Strings Alteratively](https://leetcode.com/problems/merge-strings-alternately/) | [Python](./Merge_Sorted_Strings.py)|Easy|
 |58|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | [Python](./Third_Max.py)|Easy|
+|59|[Power x-n](https://leetcode.com/problems/powx-n/) | [Python](./Powx_n.py)|Medium|
+|60|[FLipping an Image](https://leetcode.com/problems/flipping-an-image/) | [Python](./Flipping_Image.py)|Easy|
+|61|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [Python](./Fib_Num.py)|Easy|
 
 #### Practice
 | # | Title | Solution | Difficulty |
