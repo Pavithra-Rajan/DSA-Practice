@@ -68,8 +68,12 @@
 |62|[Minimum Operations to make equal](https://leetcode.com/problems/minimum-operations-to-make-array-equal/) | [Python](./Minimum_Op_equal.py)|Medium|
 |63|[Count Good Triplets](https://leetcode.com/problems/count-good-triplets/) | [CPP](./Good_Triplets.cpp)|Easy|
 |64|[Replace Digits with characters](https://leetcode.com/problems/replace-all-digits-with-characters/) | [Python](./Replace_Dig_Alpha.py)|Easy|
-|65|[Truncate Sentence](https://leetcode.com/problems/truncate-sentence/) | [Python](./Truncate_Sentence.py)|Easy|
-
+|65|[Average Salary -(min,max)](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/) | [Python](./Average_Salary.py)|Easy|
+|66|[Sort array by increasing frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/) | [Python](./Sor_increasing_order.py)|Easy|
+|67|[Maximum 69](https://leetcode.com/problems/maximum-69-number/) | [Python](./Max_69.py)|Easy|
+|68|[Height Checker](https://leetcode.com/problems/height-checker/) | [Python](./Height_Checker.py)|Easy|
+|69|[Replace greatest on right side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/) | [Python](./Replace_Elements_Right.py)|Easy|
+|70|[Truncate Sentence](https://leetcode.com/problems/truncate-sentence/) | [Python](./Truncate_Sentence.py)|Easy|
 #### Practice
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
