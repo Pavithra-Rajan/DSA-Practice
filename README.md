@@ -65,6 +65,7 @@
 |59|[Power x-n](https://leetcode.com/problems/powx-n/) | [Python](./Powx_n.py)|Medium|
 |60|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/) | [Python](./Flipping_Image.py)|Easy|
 |61|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [Python](./Fib_Num.py)|Easy|
+|62|[Minimum Operations to make equal](https://leetcode.com/problems/minimum-operations-to-make-array-equal/) | [Python](./Minimum_Op_equal.py)|Medium|
 
 #### Practice
 | # | Title | Solution | Difficulty |
