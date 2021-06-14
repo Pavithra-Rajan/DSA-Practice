@@ -68,6 +68,7 @@
 |62|[Minimum Operations to make equal](https://leetcode.com/problems/minimum-operations-to-make-array-equal/) | [Python](./Minimum_Op_equal.py)|Medium|
 |63|[Count Good Triplets](https://leetcode.com/problems/count-good-triplets/) | [CPP](./Good_Triplets.cpp)|Easy|
 |64|[Replace Digits with characters](https://leetcode.com/problems/replace-all-digits-with-characters/) | [Python](./Replace_Dig_Alpha.py)|Easy|
+|65|[Truncate Sentence](https://leetcode.com/problems/truncate-sentence/) | [Python](./Truncate_Sentence.py)|Easy|
 
 #### Practice
 | # | Title | Solution | Difficulty |
