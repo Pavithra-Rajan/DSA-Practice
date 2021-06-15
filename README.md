@@ -78,6 +78,7 @@
 |72|[Halves alike in string](https://leetcode.com/problems/determine-if-string-halves-are-alike/) | [Python](./Halves_alike.py)|Easy|
 |73|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python](./Valid_Parentheses.py)|Easy|
 |74|[Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | [Python](./Highest_Altitude.py)|Easy|
+|75|[Deepest Leaves](https://leetcode.com/problems/deepest-leaves-sum/) | [Python](./Highest_Altitude.py)|Medium|
 
 #### Practice
 | # | Title | Solution | Difficulty |
