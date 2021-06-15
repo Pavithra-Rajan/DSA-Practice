@@ -75,6 +75,7 @@
 |69|[Replace greatest on right side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/) | [Python](./Replace_Elements_Right.py)|Easy|
 |70|[Truncate Sentence](https://leetcode.com/problems/truncate-sentence/) | [Python](./Truncate_Sentence.py)|Easy|
 |71|[Inverse Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Python](./Inverse_Tree.py)|Easy|
+|72|[halves alike in string](https://leetcode.com/problems/determine-if-string-halves-are-alike/) | [Python](./Halves_alike.py)|Easy|
 
 #### Practice
 | # | Title | Solution | Difficulty |
