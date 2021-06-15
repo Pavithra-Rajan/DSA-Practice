@@ -77,6 +77,7 @@
 |71|[Inverse Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Python](./Inverse_Tree.py)|Easy|
 |72|[Halves alike in string](https://leetcode.com/problems/determine-if-string-halves-are-alike/) | [Python](./Halves_alike.py)|Easy|
 |73|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python](./Valid_Parentheses.py)|Easy|
+|74|[Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | [Python](./Highest_Altitude.py)|Easy|
 
 #### Practice
 | # | Title | Solution | Difficulty |
