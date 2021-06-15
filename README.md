@@ -74,6 +74,8 @@
 |68|[Height Checker](https://leetcode.com/problems/height-checker/) | [Python](./Height_Checker.py)|Easy|
 |69|[Replace greatest on right side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/) | [Python](./Replace_Elements_Right.py)|Easy|
 |70|[Truncate Sentence](https://leetcode.com/problems/truncate-sentence/) | [Python](./Truncate_Sentence.py)|Easy|
+|71|[Inverse Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Python](./Inverse_Tree.py)|Easy|
+
 #### Practice
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
