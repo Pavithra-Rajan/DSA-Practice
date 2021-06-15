@@ -79,6 +79,7 @@
 |73|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python](./Valid_Parentheses.py)|Easy|
 |74|[Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | [Python](./Highest_Altitude.py)|Easy|
 |75|[Deepest Leaves](https://leetcode.com/problems/deepest-leaves-sum/) | [Python](./Highest_Altitude.py)|Medium|
+|76|[Missing Number](https://leetcode.com/problems/missing-number/) | [Python](./Missing_Number.py)|Easy|
 
 #### Practice
 | # | Title | Solution | Difficulty |
