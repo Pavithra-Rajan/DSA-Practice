@@ -85,6 +85,8 @@
 |79|[Element 25% occurrence](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/) | [Python](./Elem_25_Occur.py)|Easy|
 |80|[Maximum Product of Two](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | [Python](./Max_Product_two.py)|Easy|
 |81|[Number of Students Doing Homework](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/) | [Python](./Num_Students_Homework.py)|Easy|
+|82|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Python](./Reverse_Linked_List.py)|Easy|
+
 #### Practice
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
