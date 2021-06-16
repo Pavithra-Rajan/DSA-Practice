@@ -86,6 +86,8 @@
 |80|[Maximum Product of Two](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | [Python](./Max_Product_two.py)|Easy|
 |81|[Number of Students Doing Homework](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/) | [Python](./Num_Students_Homework.py)|Easy|
 |82|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Python](./Reverse_Linked_List.py)|Easy|
+|83|[N unique integer sum 0](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/) | [Python](./N_unique_integers_to_0.py)|Easy|
+|84|[Largest atleast twice](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) | [Python](./Largest_atleast_twice.py)|Easy|
 
 #### Practice
 | # | Title | Solution | Difficulty |
