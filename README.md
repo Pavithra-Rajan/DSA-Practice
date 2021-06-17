@@ -92,6 +92,8 @@
 |86|[Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/) | [Python](./Self_Dividing.py)|Easy|
 |87|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [Python](./Merge_Binary_Trees.py)|Easy|
 |88|[Count Negative Number](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | [Python](./Count_negative_num.py)|Easy|
+|89|[Sum of Base](https://leetcode.com/problems/sum-of-digits-in-base-k/) | [Python](./Sum_Base.py)|Easy|
+|90|[Count Bits List](https://leetcode.com/problems/counting-bits/) | [Python](./Count_Bit.py)|Easy|
 
 #### Practice
 | # | Title | Solution | Difficulty |
