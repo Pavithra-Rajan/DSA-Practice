@@ -89,6 +89,8 @@
 |83|[N unique integer sum 0](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/) | [Python](./N_unique_integers_to_0.py)|Easy|
 |84|[Largest atleast twice](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) | [Python](./Largest_atleast_twice.py)|Easy|
 |85|[Consecutive sum count](https://leetcode.com/problems/consecutive-numbers-sum/) | [Python](./Consecutive_Sum.py)|Hard|
+|86|[Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/) | [Python](./Self_Dividing.py)|Easy|
+
 #### Practice
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
