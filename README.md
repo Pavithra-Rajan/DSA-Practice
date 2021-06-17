@@ -90,6 +90,7 @@
 |84|[Largest atleast twice](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) | [Python](./Largest_atleast_twice.py)|Easy|
 |85|[Consecutive sum count](https://leetcode.com/problems/consecutive-numbers-sum/) | [Python](./Consecutive_Sum.py)|Hard|
 |86|[Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/) | [Python](./Self_Dividing.py)|Easy|
+|87|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [Python](./Merge_Binary_Trees.py)|Easy|
 
 #### Practice
 | # | Title | Solution | Difficulty |
