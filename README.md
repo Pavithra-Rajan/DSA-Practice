@@ -95,8 +95,8 @@
 |89|[Sum of Base](https://leetcode.com/problems/sum-of-digits-in-base-k/) | [Python](./Sum_Base.py)|Easy|
 |90|[Count Bits List](https://leetcode.com/problems/counting-bits/) | [Python](./Count_Bit.py)|Easy|
 |91|[Sort integer by power value](https://leetcode.com/problems/sort-integers-by-the-power-value/) | [Python](./Sort_Power_value.py)|Medium|
-|92|[inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Python](./Inorder_Traversal.py)|Easy|
-
+|92|[Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Python](./Inorder_Traversal.py)|Easy|
+|93|[Minimum Operations to move all to one box -IMP](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/) | [Python](./Min_op_all_boxes.py)|Medium|
 #### Practice
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
