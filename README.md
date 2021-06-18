@@ -97,6 +97,8 @@
 |91|[Sort integer by power value](https://leetcode.com/problems/sort-integers-by-the-power-value/) | [Python](./Sort_Power_value.py)|Medium|
 |92|[Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Python](./Inorder_Traversal.py)|Easy|
 |93|[Minimum Operations to move all to one box -IMP](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/) | [Python](./Min_op_all_boxes.py)|Medium|
+|94|[Array Partition I](https://leetcode.com/problems/array-partition-i/) | [Python](./Array_Pair.py)|Easy|
+
 #### Practice
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
