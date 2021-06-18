@@ -98,6 +98,7 @@
 |92|[Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Python](./Inorder_Traversal.py)|Easy|
 |93|[Minimum Operations to move all to one box -IMP](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/) | [Python](./Min_op_all_boxes.py)|Medium|
 |94|[Array Partition I](https://leetcode.com/problems/array-partition-i/) | [Python](./Array_Pair.py)|Easy|
+|95|[Minimum Operations to make array strictly increasing](https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/) | [Python](./Min_Op_Strictly_Inc.py)|Easy|
 
 #### Practice
 | # | Title | Solution | Difficulty |
