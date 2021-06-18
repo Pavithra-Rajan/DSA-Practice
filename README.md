@@ -94,7 +94,9 @@
 |88|[Count Negative Number](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | [Python](./Count_negative_num.py)|Easy|
 |89|[Sum of Base](https://leetcode.com/problems/sum-of-digits-in-base-k/) | [Python](./Sum_Base.py)|Easy|
 |90|[Count Bits List](https://leetcode.com/problems/counting-bits/) | [Python](./Count_Bit.py)|Easy|
-|91|[sort integer by power value](https://leetcode.com/problems/sort-integers-by-the-power-value/) | [Python](./Sort_Power_value.py)|Medium|
+|91|[Sort integer by power value](https://leetcode.com/problems/sort-integers-by-the-power-value/) | [Python](./Sort_Power_value.py)|Medium|
+|92|[inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Python](./Inorder_Traversal.py)|Easy|
+
 #### Practice
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
