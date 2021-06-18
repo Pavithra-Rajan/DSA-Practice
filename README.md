@@ -98,7 +98,11 @@
 |92|[Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Python](./Inorder_Traversal.py)|Easy|
 |93|[Minimum Operations to move all to one box -IMP](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/) | [Python](./Min_op_all_boxes.py)|Medium|
 |94|[Array Partition I](https://leetcode.com/problems/array-partition-i/) | [Python](./Array_Pair.py)|Easy|
-|95|[Minimum Operations to make array strictly increasing](https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/) | [Python](./Min_Op_Strictly_Inc.py)|Easy|
+|95|[Make array strictly increasing-minimum operations](https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/) | [Python](./Min_Op_Strictly_Inc.py)|Easy|
+|96|[Sum of Unique numbers](https://leetcode.com/problems/sum-of-unique-elements/) | [Python](./Sum_unique.py)|Easy|
+|97|Count Balls](https://leetcode.com/problems/maximum-number-of-balls-in-a-box/) | [Python](./Count_Balls.py)|Easy|
+|98|[Lucky Number](https://leetcode.com/problems/maximum-number-of-balls-in-a-box/) | [Python](./Lucky_Number.py)|Easy|
+|99|[Maximum Depth of Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Python](./Max_Depth_Tree.py)|Easy|
 
 #### Practice
 | # | Title | Solution | Difficulty |
