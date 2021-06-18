@@ -101,8 +101,9 @@
 |95|[Make array strictly increasing-minimum operations](https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/) | [Python](./Min_Op_Strictly_Inc.py)|Easy|
 |96|[Sum of Unique numbers](https://leetcode.com/problems/sum-of-unique-elements/) | [Python](./Sum_unique.py)|Easy|
 |97|[Count Balls](https://leetcode.com/problems/maximum-number-of-balls-in-a-box/) | [Python](./Count_Balls.py)|Easy|
-|98|[Lucky Number](https://leetcode.com/problems/maximum-number-of-balls-in-a-box/) | [Python](./Lucky_Number.py)|Easy|
+|98|[Lucky Number](https://leetcode.com/problems/lucky-numbers-in-a-matrix/) | [Python](./Lucky_Number.py)|Easy|
 |99|[Maximum Depth of Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Python](./Max_Depth_Tree.py)|Easy|
+|100|[First Unique Character Index](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Python](./First_Unique_Char_Index.py)|Easy|
 
 #### Practice
 | # | Title | Solution | Difficulty |
