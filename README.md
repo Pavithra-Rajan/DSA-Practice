@@ -104,6 +104,7 @@
 |98|[Lucky Number](https://leetcode.com/problems/lucky-numbers-in-a-matrix/) | [Python](./Lucky_Number.py)|Easy|
 |99|[Maximum Depth of Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Python](./Max_Depth_Tree.py)|Easy|
 |100|[First Unique Character Index](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Python](./First_Unique_Char_Index.py)|Easy|
+|101|[Number of 1's in Binary](https://leetcode.com/problems/number-of-1-bits/) | [Python](./Hamming_Weight.py)|Easy|
 
 #### Practice
 | # | Title | Solution | Difficulty |
