@@ -107,6 +107,7 @@
 |101|[Number of 1's in Binary](https://leetcode.com/problems/number-of-1-bits/) | [Python](./Hamming_Weight.py)|Easy|
 |102|[Check if two strings are equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) | [Python](./Check_strings_equivalent.py)|Easy|
 |103|[Search a Binary Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Python](./Search_Binary.py)|Easy|
+|104|[N-ary Postorder](https://leetcode.com/problems/n-ary-tree-postorder-traversal/) | [Python](./N-ary_Postorder.py)|Easy|
 
 #### HackerRank
 | # | Title | Solution | Difficulty |
