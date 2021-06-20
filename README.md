@@ -108,6 +108,7 @@
 |102|[Check if two strings are equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) | [Python](./Check_strings_equivalent.py)|Easy|
 |103|[Search a Binary Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Python](./Search_Binary.py)|Easy|
 |104|[N-ary Postorder](https://leetcode.com/problems/n-ary-tree-postorder-traversal/) | [Python](./N-ary_Postorder.py)|Easy|
+|105|[Di string match](https://leetcode.com/problems/di-string-match/) | [Python](./DI_string_match.py)|Easy|
 
 #### HackerRank
 | # | Title | Solution | Difficulty |
