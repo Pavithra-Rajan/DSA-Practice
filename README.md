@@ -105,6 +105,7 @@
 |99|[Maximum Depth of Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Python](./Max_Depth_Tree.py)|Easy|
 |100|[First Unique Character Index](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Python](./First_Unique_Char_Index.py)|Easy|
 |101|[Number of 1's in Binary](https://leetcode.com/problems/number-of-1-bits/) | [Python](./Hamming_Weight.py)|Easy|
+|102|[Check if two strings are equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) | [Python](./Check_strings_equivalent.py)|Easy|
 
 #### HackerRank
 | # | Title | Solution | Difficulty |
