@@ -110,6 +110,7 @@
 |104|[N-ary Postorder](https://leetcode.com/problems/n-ary-tree-postorder-traversal/) | [Python](./N-ary_Postorder.py)|Easy|
 |105|[Di string match](https://leetcode.com/problems/di-string-match/) | [Python](./DI_string_match.py)|Easy|
 |106|[Valid Parentheses -Hard](https://leetcode.com/problems/valid-parenthesis-string/) | [Python](./Valid_Parentheses2.py)|Medium|
+|107|[Excel Column -Hard](https://leetcode.com/problems/excel-sheet-column-title/) | [Python](./Excel_Column.py)|Easy|
 
 #### HackerRank
 | # | Title | Solution | Difficulty |
