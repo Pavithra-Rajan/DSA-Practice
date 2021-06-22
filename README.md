@@ -111,6 +111,7 @@
 |105|[Di string match](https://leetcode.com/problems/di-string-match/) | [Python](./DI_string_match.py)|Easy|
 |106|[Valid Parentheses -Hard](https://leetcode.com/problems/valid-parenthesis-string/) | [Python](./Valid_Parentheses2.py)|Medium|
 |107|[Excel Column -Hard](https://leetcode.com/problems/excel-sheet-column-title/) | [Python](./Excel_Column.py)|Easy|
+|108|[Longest Common Prefix -Hard](https://leetcode.com/problems/longest-common-prefix/) | [Python](./Longest_Common_Prefix.py)|Easy|
 
 #### HackerRank
 | # | Title | Solution | Difficulty |
