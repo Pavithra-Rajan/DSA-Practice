@@ -115,6 +115,7 @@
 |109|[Valid Phone Number -Hard](https://leetcode.com/problems/valid-phone-numbers/) | [Bash](./Valid_Phone_Num.sh)|Easy|
 |110|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Python](./Roman_Integer.py)|Easy|
 |111|[Integer to Roman --Imp](https://leetcode.com/problems/integer-to-roman/) | [Python](./Integer_Roman.py)|Medium|
+|112|[Remove Duplicates Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Python](./Remove_Duplicates_Sorted.py)|Easy|
 
 #### HackerRank
 | # | Title | Solution | Difficulty |
