@@ -118,6 +118,7 @@
 |112|[Remove Duplicates Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Python](./Remove_Duplicates_Sorted.py)|Easy|
 |113|[Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Python](./Search_Insert.py)|Easy|
 |114|[First Bad Version](https://leetcode.com/problems/first-bad-version/) | [Python](./First_Bad_Ver.py)|Easy|
+|115|[Add Binary](https://leetcode.com/problems/add-binary/) | [Python](./Add_Binary.py)|Easy|
 
 #### HackerRank
 | # | Title | Solution | Difficulty |
