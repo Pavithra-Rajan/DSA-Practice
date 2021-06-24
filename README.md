@@ -116,6 +116,7 @@
 |110|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Python](./Roman_Integer.py)|Easy|
 |111|[Integer to Roman --Imp](https://leetcode.com/problems/integer-to-roman/) | [Python](./Integer_Roman.py)|Medium|
 |112|[Remove Duplicates Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Python](./Remove_Duplicates_Sorted.py)|Easy|
+|113|[Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Python](./Search_Insert.py)|Easy|
 
 #### HackerRank
 | # | Title | Solution | Difficulty |
