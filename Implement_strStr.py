@@ -1,6 +1,7 @@
 class Solution:
     def strStr(self, haystack: str, needle: str) -> int:
-        if needle=="":
+        return haystack.find(needle)
+        """if needle=="":
             return 0
         hlen=len(haystack)
         nlen=len(needle)
@@ -9,4 +10,4 @@ class Solution:
             if haystack[i:i+nlen]==needle:
                 return i
                         
-        return -1
+        return -1"""
