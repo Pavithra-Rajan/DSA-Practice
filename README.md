@@ -119,6 +119,7 @@
 |113|[Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Python](./Search_Insert.py)|Easy|
 |114|[First Bad Version](https://leetcode.com/problems/first-bad-version/) | [Python](./First_Bad_Ver.py)|Easy|
 |115|[Add Binary](https://leetcode.com/problems/add-binary/) | [Python](./Add_Binary.py)|Easy|
+|116|[Find Town Judge](https://leetcode.com/problems/find-the-town-judge/) | [Python](./Find_town_judge.py)|Easy|
 
 #### HackerRank
 | # | Title | Solution | Difficulty |
