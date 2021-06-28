@@ -124,7 +124,7 @@
 |118|[Peak Index- Binary](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | [Python](./Peak_Index.py)|Easy|
 |119|[Same Tree](https://leetcode.com/problems/same-tree/) | [Python](./Same_tree.py)|Easy|
 |120|[Length of last Word](https://leetcode.com/problems/length-of-last-word/) | [Python](./Length_Last_Word.py)|Easy|
-
+|121|[Plus One](https://leetcode.com/problems/plus-one/) | [Python](./Plus_one.py)|Easy|
 #### HackerRank
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
