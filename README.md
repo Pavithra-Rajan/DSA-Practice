@@ -125,6 +125,8 @@
 |119|[Same Tree](https://leetcode.com/problems/same-tree/) | [Python](./Same_tree.py)|Easy|
 |120|[Length of last Word](https://leetcode.com/problems/length-of-last-word/) | [Python](./Length_Last_Word.py)|Easy|
 |121|[Plus One](https://leetcode.com/problems/plus-one/) | [Python](./Plus_one.py)|Easy|
+|122|[Remove Element](https://leetcode.com/problems/remove-element/) | [Python](./Remove_Elem.py)|Easy|
+
 #### HackerRank
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
