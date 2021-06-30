@@ -132,7 +132,9 @@
 |126|[Lowest Common Ancestor-- hard](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [Python](./LCA.py)|Medium|
 |127|[Longest Substring-- hard](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Python](./Longest_Sub.py)|Medium|
 |128|[Add Strings](https://leetcode.com/problems/add-strings/) | [Python](./Add_Strings.py)|Easy|
-|130|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Python](./Contains_Dup.py)|Easy|
+|129|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Python](./Contains_Dup.py)|Easy|
+|130|[Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Python](./Valid_Anagram.py)|Easy|
+|131|[Minimize Product Sum of Two](https://leetcode.com/problems/minimize-product-sum-of-two-arrays/) | [Python](./Minimize_Pdt_Sum.py)|Medium|
 
 #### HackerRank
 | # | Title | Solution | Difficulty |
