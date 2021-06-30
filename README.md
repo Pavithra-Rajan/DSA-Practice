@@ -126,6 +126,7 @@
 |120|[Length of last Word](https://leetcode.com/problems/length-of-last-word/) | [Python](./Length_Last_Word.py)|Easy|
 |121|[Plus One](https://leetcode.com/problems/plus-one/) | [Python](./Plus_one.py)|Easy|
 |122|[Remove Element](https://leetcode.com/problems/remove-element/) | [Python](./Remove_Elem.py)|Easy|
+|123|[Remove Duplicates](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Python](./Remove_Dup.py)|Easy|
 
 #### HackerRank
 | # | Title | Solution | Difficulty |
