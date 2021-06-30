@@ -130,6 +130,7 @@
 |124|[Permutations-- hard](https://leetcode.com/problems/permutations/) | [Python](./Permutations.py)|Medium|
 |125|[Climb Stairs](https://leetcode.com/problems/climbing-stairs/) | [Python](./Climb_Stairs.py)|Easy-DP|
 |126|[Lowest Common Ancestor-- hard](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [Python](./LCA.py)|Medium|
+|127|[Longest Substring-- hard](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Python](./Longest_Sub.py)|Medium|
 
 #### HackerRank
 | # | Title | Solution | Difficulty |
