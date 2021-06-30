@@ -127,6 +127,7 @@
 |121|[Plus One](https://leetcode.com/problems/plus-one/) | [Python](./Plus_one.py)|Easy|
 |122|[Remove Element](https://leetcode.com/problems/remove-element/) | [Python](./Remove_Elem.py)|Easy|
 |123|[Remove Duplicates](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Python](./Remove_Dup.py)|Easy|
+|124|[Permutations](https://leetcode.com/problems/permutations/) | [Python](./Permutations.py)|Medium|
 
 #### HackerRank
 | # | Title | Solution | Difficulty |
