@@ -136,6 +136,7 @@
 |130|[Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Python](./Valid_Anagram.py)|Easy|
 |131|[Minimize Product Sum of Two](https://leetcode.com/problems/minimize-product-sum-of-two-arrays/) | [Python](./Minimize_Pdt_Sum.py)|Medium|
 |132|[Group Anagrams --refer](https://leetcode.com/problems/group-anagrams/) | [Python](./Group_Anagrams.py)|Medium|
+|133|[Gray Code --refer](https://leetcode.com/problems/gray-code/) | [Python](./Gray_Code.py)|Medium|
 
 #### HackerRank
 | # | Title | Solution | Difficulty |
