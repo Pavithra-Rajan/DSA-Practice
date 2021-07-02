@@ -139,6 +139,7 @@
 |133|[Gray Code --refer](https://leetcode.com/problems/gray-code/) | [Python](./Gray_Code.py)|Medium|
 |134|[Single Number](https://leetcode.com/problems/single-number/) | [Python](./Single_Number.py)|Easy|
 |135|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Python](./Valid_Palindrome.py)|Easy|
+|136|[Remove Vowels](https://leetcode.com/problems/remove-vowels-from-a-string/) | [Python](./Remove_Vowels.py)|Easy|
 
 #### HackerRank
 | # | Title | Solution | Difficulty |
