@@ -138,6 +138,7 @@
 |132|[Group Anagrams --refer](https://leetcode.com/problems/group-anagrams/) | [Python](./Group_Anagrams.py)|Medium|
 |133|[Gray Code --refer](https://leetcode.com/problems/gray-code/) | [Python](./Gray_Code.py)|Medium|
 |134|[Single Number](https://leetcode.com/problems/single-number/) | [Python](./Single_Number.py)|Easy|
+|135|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Python](./Valid_Palindrome.py)|Easy|
 
 #### HackerRank
 | # | Title | Solution | Difficulty |
