@@ -143,6 +143,7 @@
 |137|[Find K closest --refer](https://leetcode.com/problems/find-k-closest-elements/) | [Python](./Find_K_closest.py)|Medium|
 |138|[Best time to sell](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python](./Best_Time_To_Sell.py)|Easy|
 |139|[Maximum Points Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) | [Python](./Max_Points_Cards.py)|Medium|
+|140|[Largest Number](https://leetcode.com/problems/largest-number/) | [Python](./Largest_Number.py)|Medium|
 
 #### HackerRank
 | # | Title | Solution | Difficulty |
