@@ -145,6 +145,7 @@
 |139|[Maximum Points Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) | [Python](./Max_Points_Cards.py)|Medium|
 |140|[Largest Number](https://leetcode.com/problems/largest-number/) | [Python](./Largest_Number.py)|Medium|
 |141|[Count Primes](https://leetcode.com/problems/count-primes/) | [Python](./Best_Time_To_Sell.py)|Easy|
+|142|[Remove Linked List elements](https://leetcode.com/problems/remove-linked-list-elements/) | [Python](./Remove_LL.py)|Easy|
 
 #### HackerRank
 | # | Title | Solution | Difficulty |
