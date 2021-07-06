@@ -147,6 +147,7 @@
 |141|[Count Primes](https://leetcode.com/problems/count-primes/) | [Python](./Best_Time_To_Sell.py)|Easy|
 |142|[Remove Linked List elements](https://leetcode.com/problems/remove-linked-list-elements/) | [Python](./Remove_LL.py)|Easy|
 |143|[Sort by Character Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | [Python](./Sort_Char_Freq.py)|Medium|
+|144|[Sort List](https://leetcode.com/problems/sort-list/) | [Python](./Sort_List.py)|Medium|
 
 #### HackerRank
 | # | Title | Solution | Difficulty |
