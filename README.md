@@ -149,6 +149,7 @@
 |143|[Sort by Character Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | [Python](./Sort_Char_Freq.py)|Medium|
 |144|[Sort List](https://leetcode.com/problems/sort-list/) | [Python](./Sort_List.py)|Medium|
 |145|[Sorted Array to BST](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Python](./Sorted_Arr_BST.py)|Easy|
+|146|[Merge Sorted Arrays](https://leetcode.com/problems/merge-two-sorted-lists/) | [Python](./Merge_Two_Lists.py)|Easy|
 
 #### HackerRank
 | # | Title | Solution | Difficulty |
