@@ -148,6 +148,7 @@
 |142|[Remove Linked List elements](https://leetcode.com/problems/remove-linked-list-elements/) | [Python](./Remove_LL.py)|Easy|
 |143|[Sort by Character Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | [Python](./Sort_Char_Freq.py)|Medium|
 |144|[Sort List](https://leetcode.com/problems/sort-list/) | [Python](./Sort_List.py)|Medium|
+|145|[Sorted Array to BST](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Python](./Sorted_Arr_BST.py)|Easy|
 
 #### HackerRank
 | # | Title | Solution | Difficulty |
