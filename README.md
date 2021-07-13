@@ -152,6 +152,7 @@
 |146|[Merge Sorted Arrays](https://leetcode.com/problems/merge-two-sorted-lists/) | [Python](./Merge_Two_Lists.py)|Easy|
 |147|[Remove Nth node](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Python](./Remove_nth_end.py)|Medium|
 |148|[Asteroid Collision --Google OA](https://leetcode.com/problems/asteroid-collision/) | [Python](./Asteroid_Collision.py)|Medium|
+|149|[Find Peak Element- O(logn)](https://leetcode.com/problems/find-peak-element/) | [Python](./Find_Peak.py)|Medium|
 
 #### HackerRank
 | # | Title | Solution | Difficulty |
