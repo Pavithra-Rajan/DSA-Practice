@@ -154,6 +154,7 @@
 |148|[Asteroid Collision --Google OA](https://leetcode.com/problems/asteroid-collision/) | [Python](./Asteroid_Collision.py)|Medium|
 |149|[Find Peak Element- O(logn)](https://leetcode.com/problems/find-peak-element/) | [Python](./Find_Peak.py)|Medium|
 |150|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [Python](./Balanced_Bin_Tree.py)|Easy|
+|151|[Sort Array- O(logn)](https://leetcode.com/problems/sort-an-array/) | [Python](./Sort_Array_Merge.py)|Medium|
 
 #### HackerRank
 | # | Title | Solution | Difficulty |
