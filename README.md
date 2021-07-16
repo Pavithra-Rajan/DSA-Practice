@@ -154,7 +154,8 @@
 |148|[Asteroid Collision --Google OA](https://leetcode.com/problems/asteroid-collision/) | [Python](./Asteroid_Collision.py)|Medium|
 |149|[Find Peak Element- O(logn)](https://leetcode.com/problems/find-peak-element/) | [Python](./Find_Peak.py)|Medium|
 |150|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [Python](./Balanced_Bin_Tree.py)|Easy|
-|151|[Sort Array- O(logn)](https://leetcode.com/problems/sort-an-array/) | [Python](./Sort_Array_Merge.py)|Medium|
+|151|[Sort Array- O(logn)](https://leetcode.com/problems/sort-an-array/) | [Python](./Sort_Array_Merge.py)|Medium|c
+|152|[Symmetric Binary Tree](https://leetcode.com/problems/symmetric-tree/) | [Python](./Symmetric_Tree.py)|Easy|
 
 #### HackerRank
 | # | Title | Solution | Difficulty |
@@ -166,3 +167,4 @@
 |---| ----- | -------- | ---------- |
 |1|[Reverse Array](https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/) | [C](./Reverse_Array.c)|Easy|
 |2|[Min-Max of Array](https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/) | [C](./Find_Min_Max_array.c)|Easy|
+|3|[Sorting Algorithms](https://leetcode.com/problems/sort-an-array/) | [C](./Selection_Sort.py)|Easy|
