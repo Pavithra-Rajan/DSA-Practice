@@ -164,6 +164,7 @@
 |158|[Maximum Prduct Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [Python](./Max_Pdt_Subarray.py)|Medium|
 |159|[Maximum Product of 3](https://leetcode.com/problems/maximum-product-of-three-numbers/) | [Python](./Max_Pdt_Three.py)|Easy|
 |160|[Unique Occurences](https://leetcode.com/problems/unique-number-of-occurrences/) | [Python](./Unique_Occurrences.py)|Easy|
+|161|[Rotate List](https://leetcode.com/problems/rotate-list/) | [Python](./Rotate_List.py)|Medium|
 
 #### HackerRank
 | # | Title | Solution | Difficulty |
