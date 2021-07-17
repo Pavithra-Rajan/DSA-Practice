@@ -159,7 +159,11 @@
 |153|[Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Python](./Move_Zeroes.py)|Easy|
 |154|[Container with most water](https://leetcode.com/problems/container-with-most-water/) | [Python](./Container_Most_Water.py)|Medium|
 |155|[Repeated Pattern](https://leetcode.com/problems/repeated-substring-pattern/) | [Python](./Repeated_Pattern.py)|Easy|
-|156|[first and last position-- O(logn)](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Python](./First_And_last.py)|Medium|
+|156|[First and last position-- O(logn)](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Python](./First_And_last.py)|Medium|
+|157|[Maximum Sum Sub-array](https://leetcode.com/problems/maximum-subarray/) | [Python](./Max_Subarray_Kadane.py)|Easy|
+|158|[Maximum Prduct Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [Python](./Max_Pdt_Subarray.py)|Medium|
+|159|[Maximum Product of 3](https://leetcode.com/problems/maximum-product-of-three-numbers/) | [Python](./Max_Pdt_Three.py)|Easy|
+|160|[Unique Occurences](https://leetcode.com/problems/unique-number-of-occurrences/) | [Python](./Unique_Occurrences.py)|Easy|
 
 #### HackerRank
 | # | Title | Solution | Difficulty |
