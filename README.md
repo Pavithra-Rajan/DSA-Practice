@@ -166,6 +166,11 @@
 |160|[Unique Occurences](https://leetcode.com/problems/unique-number-of-occurrences/) | [Python](./Unique_Occurrences.py)|Easy|
 |161|[Rotate List](https://leetcode.com/problems/rotate-list/) | [Python](./Rotate_List.py)|Medium|
 |162|[Robot return to origin](https://leetcode.com/problems/robot-return-to-origin/) | [Python](./Robot_origin.py)|Easy|
+|163|[Shuffling-Fischer yates](https://leetcode.com/problems/shuffle-an-array/) | [Python](./Shuffle_an_array.py)|Medium|
+|164|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | [Python](./Next_greater.py)|Easy|
+|165|[Stack with 2 queues](https://leetcode.com/problems/implement-stack-using-queues/) | [Python](./Stack_with_Q.py)|Easy|
+|166|[Frogs croak](https://leetcode.com/problems/minimum-number-of-frogs-croaking/) | [Python](./Min_Num_Frogs.py)|Medium|
+|167|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [Python](./Spiiral_Matrix.pyv)|Medium|
 
 #### HackerRank
 | # | Title | Solution | Difficulty |
