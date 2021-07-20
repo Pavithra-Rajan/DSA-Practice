@@ -171,6 +171,7 @@
 |165|[Stack with 2 queues](https://leetcode.com/problems/implement-stack-using-queues/) | [Python](./Stack_with_Q.py)|Easy|
 |166|[Frogs croak](https://leetcode.com/problems/minimum-number-of-frogs-croaking/) | [Python](./Min_Num_Frogs.py)|Medium|
 |167|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [Python](./Spiiral_Matrix.pyv)|Medium|
+|168|[Shortest Distance to word](https://leetcode.com/problems/shortest-word-distance/) | [Python](./Shortest_Dist_Word.py)|Easy|
 
 #### HackerRank
 | # | Title | Solution | Difficulty |
