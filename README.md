@@ -174,6 +174,7 @@
 |168|[Shortest Distance to word](https://leetcode.com/problems/shortest-word-distance/) | [Python](./Shortest_Dist_Word.py)|Easy|
 |169|[Reverse Words in String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Python](./Reverse_Words_Str.py)|Medium|
 |170|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [Python](./Find_Pivot.py)|Easy|
+|171|[Check if majority](https://leetcode.com/problems/check-if-a-number-is-majority-element-in-a-sorted-array/) | [Python](./Check_Majority.py)|Easy|
 
 #### HackerRank
 | # | Title | Solution | Difficulty |
