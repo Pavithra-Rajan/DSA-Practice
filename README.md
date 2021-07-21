@@ -176,6 +176,8 @@
 |170|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [Python](./Find_Pivot.py)|Easy|
 |171|[Check if majority](https://leetcode.com/problems/check-if-a-number-is-majority-element-in-a-sorted-array/) | [Python](./Check_Majority.py)|Easy|
 |172|[Number of equal dominoes](https://leetcode.com/problems/number-of-equivalent-domino-pairs/) | [Python](./Num_of_eq_doms.py)|Easy|
+|173|[Construct K palindrome strings](https://leetcode.com/problems/construct-k-palindrome-strings/) | [Python](./Construct_k_palindrome.py)|Medium|
+|174|[Verify Alien Language](https://leetcode.com/problems/verifying-an-alien-dictionary/) | [Python](./Verify_alien_lang.py)|Easy|
 
 #### HackerRank
 | # | Title | Solution | Difficulty |
