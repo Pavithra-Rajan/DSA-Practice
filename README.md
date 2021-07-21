@@ -175,6 +175,7 @@
 |169|[Reverse Words in String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Python](./Reverse_Words_Str.py)|Medium|
 |170|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [Python](./Find_Pivot.py)|Easy|
 |171|[Check if majority](https://leetcode.com/problems/check-if-a-number-is-majority-element-in-a-sorted-array/) | [Python](./Check_Majority.py)|Easy|
+|172|[Number of equal dominoes](https://leetcode.com/problems/number-of-equivalent-domino-pairs/) | [Python](./Num_of_eq_doms.py)|Easy|
 
 #### HackerRank
 | # | Title | Solution | Difficulty |
