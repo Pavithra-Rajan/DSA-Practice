@@ -178,6 +178,8 @@
 |172|[Number of equal dominoes](https://leetcode.com/problems/number-of-equivalent-domino-pairs/) | [Python](./Num_of_eq_doms.py)|Easy|
 |173|[Construct K palindrome strings](https://leetcode.com/problems/construct-k-palindrome-strings/) | [Python](./Construct_k_palindrome.py)|Medium|
 |174|[Verify Alien Language](https://leetcode.com/problems/verifying-an-alien-dictionary/) | [Python](./Verify_alien_lang.py)|Easy|
+|175|[Queue with Stack](https://leetcode.com/problems/implement-queue-using-stacks/) | [Python](./Queue_with_stack.py)|Easy|
+|176|[Design Hashset](https://leetcode.com/problems/design-hashset/) | [Python](./Design_Hash.py)|Easy|
 
 #### HackerRank
 | # | Title | Solution | Difficulty |
