@@ -180,6 +180,10 @@
 |174|[Verify Alien Language](https://leetcode.com/problems/verifying-an-alien-dictionary/) | [Python](./Verify_alien_lang.py)|Easy|
 |175|[Queue with Stack](https://leetcode.com/problems/implement-queue-using-stacks/) | [Python](./Queue_with_stack.py)|Easy|
 |176|[Design Hashset](https://leetcode.com/problems/design-hashset/) | [Python](./Design_Hash.py)|Easy|
+|177|[Insert to BST](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | [Python](./Insert_BST.py)|Medium|
+|178|[Delete BST](https://leetcode.com/problems/delete-node-in-a-bst/) | [Python](./Delete_BST.py)|Medium|
+|179|[Closest to BST](https://leetcode.com/problems/closest-binary-search-tree-value/) | [Python](./Closest_BST.py)|Easy|
+|180|[count nodes complete tree](https://leetcode.com/problems/count-complete-tree-nodes/) | [Python](./Count_nodes_complete.py)|Medium|
 
 #### HackerRank
 | # | Title | Solution | Difficulty |
