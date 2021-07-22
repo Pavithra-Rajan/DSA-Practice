@@ -183,7 +183,8 @@
 |177|[Insert to BST](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | [Python](./Insert_BST.py)|Medium|
 |178|[Delete BST](https://leetcode.com/problems/delete-node-in-a-bst/) | [Python](./Delete_BST.py)|Medium|
 |179|[Closest to BST](https://leetcode.com/problems/closest-binary-search-tree-value/) | [Python](./Closest_BST.py)|Easy|
-|180|[count nodes complete tree](https://leetcode.com/problems/count-complete-tree-nodes/) | [Python](./Count_nodes_complete.py)|Medium|
+|180|[Count nodes complete tree](https://leetcode.com/problems/count-complete-tree-nodes/) | [Python](./Count_nodes_complete.py)|Medium|
+|181|[Relative sort](https://leetcode.com/problems/relative-sort-array/) | [Python](./Relative_Sort.py)|Easy|
 
 #### HackerRank
 | # | Title | Solution | Difficulty |
