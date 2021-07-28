@@ -190,7 +190,7 @@
 #### HackerRank
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|1|[Capitalize each word](https://www.hackerrank.com/challenges/capitalize/problem) | [Python](.HackerRank/Capitalize.py)|Easy|
+|1|[Capitalize each word](https://www.hackerrank.com/challenges/capitalize/problem) | [Python](./HackerRank/Capitalize.py)|Easy|
 
 #### Practice
 | # | Title | Solution | Difficulty |
