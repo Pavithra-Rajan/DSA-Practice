@@ -190,11 +190,11 @@
 #### HackerRank
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|1|[Capitalize each word](https://www.hackerrank.com/challenges/capitalize/problem) | [Python](./Capitalize.py)|Easy|
+|1|[Capitalize each word](https://www.hackerrank.com/challenges/capitalize/problem) | [Python](.HackerRank/Capitalize.py)|Easy|
 
 #### Practice
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|1|[Reverse Array](https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/) | [C](./Reverse_Array.c)|Easy|
-|2|[Min-Max of Array](https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/) | [C](./Find_Min_Max_array.c)|Easy|
+|1|[Reverse Array](https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/) | [C](./Leetcode/Reverse_Array.c)|Easy|
+|2|[Min-Max of Array](https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/) | [C](./Leetcode/Find_Min_Max_array.c)|Easy|
 |3|[Sorting Algorithms-Heap,Bubble,Selection](https://leetcode.com/problems/sort-an-array/) | [Python](./Leetcode/Selection_Sort.py)|Easy|
