@@ -191,6 +191,7 @@
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |1|[Capitalize each word](https://www.hackerrank.com/challenges/capitalize/problem) | [Python](./HackerRank/Capitalize.py)|Easy|
+|2|[Sales by match](https://www.hackerrank.com/challenges/sock-merchant/problem) | [Python](./HackerRank/Sales_by_match.py)|Easy|
 
 #### Practice
 | # | Title | Solution | Difficulty |
