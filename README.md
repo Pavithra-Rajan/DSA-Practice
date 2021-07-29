@@ -186,6 +186,7 @@
 |180|[Count nodes complete tree](https://leetcode.com/problems/count-complete-tree-nodes/) | [Python](./Leetcode/Count_nodes_complete.py)|Medium|
 |181|[Relative sort](https://leetcode.com/problems/relative-sort-array/) | [Python](./Leetcode/Relative_Sort.py)|Easy|
 |182|[Best time to buy and sell II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Python](./Leetcode/Best_Time_To_Sell_II.py)|Easy|
+|183|[Square root](https://leetcode.com/problems/sqrtx/) | [Python](./Leetcode/Sqrt.py)|Easy|
 
 #### HackerRank
 | # | Title | Solution | Difficulty |
