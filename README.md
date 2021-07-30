@@ -187,6 +187,7 @@
 |181|[Relative sort](https://leetcode.com/problems/relative-sort-array/) | [Python](./Leetcode/Relative_Sort.py)|Easy|
 |182|[Best time to buy and sell II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Python](./Leetcode/Best_Time_To_Sell_II.py)|Easy|
 |183|[Square root](https://leetcode.com/problems/sqrtx/) | [Python](./Leetcode/Sqrt.py)|Easy|
+|184|[Merge Sort Array](https://leetcode.com/problems/merge-sorted-array/) | [Python](./Leetcode/Merge_Sort_Arr.py)|Easy|
 
 #### HackerRank
 | # | Title | Solution | Difficulty |
