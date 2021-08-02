@@ -189,6 +189,7 @@
 |183|[Square root](https://leetcode.com/problems/sqrtx/) | [Python](./Leetcode/Sqrt.py)|Easy|
 |184|[Merge Sort Array](https://leetcode.com/problems/merge-sorted-array/) | [Python](./Leetcode/Merge_Sort_Arr.py)|Easy|
 |185|[Min Stack](https://leetcode.com/problems/min-stack/) | [Python](./Leetcode/Min_Stack.py)|Easy|
+|186|[Validate BST](https://leetcode.com/problems/validate-binary-search-tree/) | [Python](./Leetcode/Validate_BST.py)|Medium|
 
 #### HackerRank
 | # | Title | Solution | Difficulty |
