@@ -190,6 +190,10 @@
 |184|[Merge Sort Array](https://leetcode.com/problems/merge-sorted-array/) | [Python](./Leetcode/Merge_Sort_Arr.py)|Easy|
 |185|[Min Stack](https://leetcode.com/problems/min-stack/) | [Python](./Leetcode/Min_Stack.py)|Easy|
 |186|[Validate BST](https://leetcode.com/problems/validate-binary-search-tree/) | [Python](./Leetcode/Validate_BST.py)|Medium|
+|187|[Perfect Number](https://leetcode.com/problems/perfect-number/) | [Python](./Leetcode/Perfect_Num.py)|Easy|
+|188|[Maximum Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Python](./Leetcode/Max_Cons_Ones.py)|Easy|
+|189|[Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/) | [Python](./Leetcode/Build_Arr.py)|Easy|
+|190|[Concatenate Array](https://leetcode.com/problems/concatenation-of-array/) | [Python](./Leetcode/Concat_Arr.py)|Easy|
 
 #### HackerRank
 | # | Title | Solution | Difficulty |
