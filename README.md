@@ -194,7 +194,8 @@
 |188|[Maximum Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Python](./Leetcode/Max_Cons_Ones.py)|Easy|
 |189|[Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/) | [Python](./Leetcode/Build_Arr.py)|Easy|
 |190|[Concatenate Array](https://leetcode.com/problems/concatenation-of-array/) | [Python](./Leetcode/Concat_Arr.py)|Easy|
-
+|191|[Disappeared Numbers](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [Python](./Leetcode/Disappeared_Nums.py)|Easy|
+ 
 #### HackerRank
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
