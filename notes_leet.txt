@@ -1,0 +1,7 @@
+deciBinary- minimum number is maximum digit
+good pairs is k(k-2)/2 integer division
+
+all(iter)  checks if all satisfy that condition. 
+"".join(list) convert list elems to one string
+
+minimum operations to make array equal is  int(n*n/4)
